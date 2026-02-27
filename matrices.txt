@@ -1,0 +1,1583 @@
+Macierz: 1:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+G H B A E F D C
+A F C D H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 2:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+H G B A E F D C
+A F C D H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 3:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+H F B A E G D C
+A G C D H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 4:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+G F B A E H D C
+A H C D G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 5:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+H G B A E F D C
+A F C D G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 6:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+G H B A E F D C
+A F C D G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 7:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+G H B A E F D C
+A F C D H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 8:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+H G B A E F D C
+A F C D H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 9:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+H F B A E G D C
+A G C D H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 10:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+G F B A E H D C
+A H C D G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 11:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+H G B A E F D C
+A F C D G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 12:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+G H B A E F D C
+A F C D G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 13:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+G H B A E F C D
+A F C D H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 14:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+H G B A E F C D
+A F C D H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 15:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+H F B A E G C D
+A G C D H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 16:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+G F B A E H C D
+A H C D G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 17:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+H G B A E F C D
+A F C D G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 18:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+G H B A E F C D
+A F C D G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 19:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+G H B A E F C D
+A F C D H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 20:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+H G B A E F C D
+A F C D H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 21:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+H F B A E G C D
+A G C D H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 22:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+G F B A E H C D
+A H C D G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 23:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+H G B A E F C D
+A F C D G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 24:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+G H B A E F C D
+A F C D G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 25:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+G H C A E F B D
+A F B D H G C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 26:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+H G C A E F B D
+A F B D H G C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 27:
+
+B C H E A D G F
+F E D C G H A B
+C A F H D B E G
+H F C A E G B D
+A G B D H F C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 28:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+G F C A E H B D
+A H B D G F C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 29:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+H G C A E F B D
+A F B D G H C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 30:
+
+B C H E A D G F
+F E D C H G A B
+C A F H D B E G
+G H C A E F B D
+A F B D G H C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 31:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+G H C A E F B D
+A F B D H G C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 32:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+H G C A E F B D
+A F B D H G C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 33:
+
+B C F H A D E G
+F E D C G H A B
+C A H E D B G F
+H F C A E G B D
+A G B D H F C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 34:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+G F C A E H B D
+A H B D G F C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 35:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+H G C A E F B D
+A F B D G H C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 36:
+
+B C F H A D E G
+F E D C H G A B
+C A H E D B G F
+G H C A E F B D
+A F B D G H C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 37:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+G H D A E F B C
+A F B C H G D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 38:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+H G D A E F B C
+A F B C H G D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 39:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+H F D A E G B C
+A G B C H F D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 40:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+G F D A E H B C
+A H B C G F D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 41:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+H G D A E F B C
+A F B C G H D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 42:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+G H D A E F B C
+A F B C G H D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 43:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+G H D A E F B C
+A F B C H G D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 44:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+H G D A E F B C
+A F B C H G D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 45:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+H F D A E G B C
+A G B C H F D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 46:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+G F D A E H B C
+A H B C G F D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 47:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+H G D A E F B C
+A F B C G H D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 48:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+G H D A E F B C
+A F B C G H D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 49:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+G H B A E F C D
+A F D C H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 50:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+H G B A E F C D
+A F D C H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 51:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+H F B A E G C D
+A G D C H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 52:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+G F B A E H C D
+A H D C G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 53:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+H G B A E F C D
+A F D C G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 54:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+G H B A E F C D
+A F D C G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 55:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+G H B A E F C D
+A F D C H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 56:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+H G B A E F C D
+A F D C H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 57:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+H F B A E G C D
+A G D C H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 58:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+G F B A E H C D
+A H D C G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 59:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+H G B A E F C D
+A F D C G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 60:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+G H B A E F C D
+A F D C G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 61:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+G H B A E F D C
+A F D C H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 62:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+H G B A E F D C
+A F D C H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 63:
+
+B C H E A D G F
+F E C D G H A B
+C A F H D B E G
+H F B A E G D C
+A G D C H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 64:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+G F B A E H D C
+A H D C G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 65:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+H G B A E F D C
+A F D C G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 66:
+
+B C H E A D G F
+F E C D H G A B
+C A F H D B E G
+G H B A E F D C
+A F D C G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 67:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+G H B A E F D C
+A F D C H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 68:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+H G B A E F D C
+A F D C H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 69:
+
+B C F H A D E G
+F E C D G H A B
+C A H E D B G F
+H F B A E G D C
+A G D C H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 70:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+G F B A E H D C
+A H D C G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 71:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+H G B A E F D C
+A F D C G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 72:
+
+B C F H A D E G
+F E C D H G A B
+C A H E D B G F
+G H B A E F D C
+A F D C G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 73:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+G H B A E F D C
+A F C D H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 74:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+H G B A E F D C
+A F C D H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 75:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+H F B A E G D C
+A G C D H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 76:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+G F B A E H D C
+A H C D G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 77:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+H G B A E F D C
+A F C D G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 78:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+G H B A E F D C
+A F C D G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 79:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+G H B A E F D C
+A F C D H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 80:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+H G B A E F D C
+A F C D H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 81:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+H F B A E G D C
+A G C D H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 82:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+G F B A E H D C
+A H C D G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 83:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+H G B A E F D C
+A F C D G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 84:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+G H B A E F D C
+A F C D G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 85:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+G H B A E F C D
+A F C D H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 86:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+H G B A E F C D
+A F C D H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 87:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+H F B A E G C D
+A G C D H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 88:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+G F B A E H C D
+A H C D G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 89:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+H G B A E F C D
+A F C D G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 90:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+G H B A E F C D
+A F C D G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 91:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+G H B A E F C D
+A F C D H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 92:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+H G B A E F C D
+A F C D H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 93:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+H F B A E G C D
+A G C D H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 94:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+G F B A E H C D
+A H C D G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 95:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+H G B A E F C D
+A F C D G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 96:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+G H B A E F C D
+A F C D G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 97:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+G H C A E F B D
+A F B D H G C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 98:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+H G C A E F B D
+A F B D H G C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 99:
+
+C A H E D B G F
+F E D C G H A B
+B C F H A D E G
+H F C A E G B D
+A G B D H F C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 100:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+G F C A E H B D
+A H B D G F C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 101:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+H G C A E F B D
+A F B D G H C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 102:
+
+C A H E D B G F
+F E D C H G A B
+B C F H A D E G
+G H C A E F B D
+A F B D G H C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 103:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+G H C A E F B D
+A F B D H G C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 104:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+H G C A E F B D
+A F B D H G C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 105:
+
+C A F H D B E G
+F E D C G H A B
+B C H E A D G F
+H F C A E G B D
+A G B D H F C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 106:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+G F C A E H B D
+A H B D G F C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 107:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+H G C A E F B D
+A F B D G H C E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 108:
+
+C A F H D B E G
+F E D C H G A B
+B C H E A D G F
+G H C A E F B D
+A F B D G H C E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 109:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+G H D A E F B C
+A F B C H G D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 110:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+H G D A E F B C
+A F B C H G D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 111:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+H F D A E G B C
+A G B C H F D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 112:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+G F D A E H B C
+A H B C G F D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 113:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+H G D A E F B C
+A F B C G H D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 114:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+G H D A E F B C
+A F B C G H D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 115:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+G H D A E F B C
+A F B C H G D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 116:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+H G D A E F B C
+A F B C H G D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 117:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+H F D A E G B C
+A G B C H F D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 118:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+G F D A E H B C
+A H B C G F D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 119:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+H G D A E F B C
+A F B C G H D E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 120:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+G H D A E F B C
+A F B C G H D E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 121:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+G H B A E F C D
+A F D C H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 122:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+H G B A E F C D
+A F D C H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 123:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+H F B A E G C D
+A G D C H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 124:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+G F B A E H C D
+A H D C G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 125:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+H G B A E F C D
+A F D C G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 126:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+G H B A E F C D
+A F D C G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 127:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+G H B A E F C D
+A F D C H G B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 128:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+H G B A E F C D
+A F D C H G B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 129:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+H F B A E G C D
+A G D C H F B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 130:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+G F B A E H C D
+A H D C G F B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 131:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+H G B A E F C D
+A F D C G H B E
+D B E G C A F H
+G H A F B E D C
+E D G B F C H A
+
+Macierz: 132:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+G H B A E F C D
+A F D C G H B E
+D B E G C A F H
+H G A F B E D C
+E D G B F C H A
+
+Macierz: 133:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+G H B A E F D C
+A F D C H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 134:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+H G B A E F D C
+A F D C H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 135:
+
+C A H E D B G F
+F E C D G H A B
+B C F H A D E G
+H F B A E G D C
+A G D C H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 136:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+G F B A E H D C
+A H D C G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 137:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+H G B A E F D C
+A F D C G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 138:
+
+C A H E D B G F
+F E C D H G A B
+B C F H A D E G
+G H B A E F D C
+A F D C G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 139:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+G H B A E F D C
+A F D C H G B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 140:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+H G B A E F D C
+A F D C H G B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 141:
+
+C A F H D B E G
+F E C D G H A B
+B C H E A D G F
+H F B A E G D C
+A G D C H F B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 142:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+G F B A E H D C
+A H D C G F B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A
+
+Macierz: 143:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+H G B A E F D C
+A F D C G H B E
+D B E G C A F H
+G H A F B E C D
+E D G B F C H A
+
+Macierz: 144:
+
+C A F H D B E G
+F E C D H G A B
+B C H E A D G F
+G H B A E F D C
+A F D C G H B E
+D B E G C A F H
+H G A F B E C D
+E D G B F C H A

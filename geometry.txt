@@ -1,0 +1,40 @@
+[REGIONS]
+
+R1: r8c2
+R2: r8c3
+R3: r8c4
+R4: r8c5
+R5: r8c6
+R6: r8c7
+R7: r7c3
+R8: r7c6
+R9: r1c1 r1c2
+R10: r1c3 r1c4
+R11: r1c5 r1c6
+R12: r1c7 r1c8
+R13: r2c1 r2c2
+R14: r2c3 r2c4
+R15: r2c5 r2c6
+R16: r2c7 r2c8
+R17: r3c1 r3c2
+R18: r3c3 r3c4
+R19: r3c5 r3c6
+R20: r3c7 r3c8
+R21: r4c1 r4c2 r5c2
+R22: r5c1 r6c1 r6c2
+R23: r7c1 r7c2 r8c1
+R24: r6c3 r6c4 r7c4
+R25: r6c5 r6c6 r7c5
+R26: r4c7 r4c8 r5c7
+R27: r6c7 r6c8 r5c8
+R28: r7c7 r7c8 r8c8
+R29: r4c3 r4c4 r5c3 r5c4
+R30: r4c5 r4c6 r5c5 r5c6
+
+
+[ISLANDS]
+
+I1: R1 R2 R3 R4 R5 R6 R7 R8
+I2: R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20
+I3: R21 R22 R23 R24 R25 R26 R27 R28
+I4: R29 R30
